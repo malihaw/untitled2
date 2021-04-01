@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9cbbe02c-7a7f-4c7b-889e-ad0f4504f649" name="Altervista" url="ftp.https://mwahab.altervista.org">
+        <fileTransfer host="ftp.mwahab.altervista.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
